@@ -1,0 +1,11 @@
+{
+  "mcpServers": {
+    "speedyindex": {
+      "command": "npx",
+      "args": ["-y", "speedyindex-mcp"],
+      "env": {
+        "SPEEDYINDEX_API_KEY": "your-key"
+      }
+    }
+  }
+}
