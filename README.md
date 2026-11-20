@@ -41,9 +41,9 @@ https://mcp.speedyindex.com/mcp
 
 Custom connectors work on every Claude plan. The Free plan allows one custom connector. On Team and Enterprise plans, an Owner adds the connector in Organization settings → Connectors, and each member connects individually. Claude asks for approval before tool calls. You can choose **Allow always** only for tools you trust.
 
-For SEO index checks and indexing tasks, the [SpeedyIndex MCP connector](https://en.speedyindex.com/mcp/) exposes 22 tools. 15 are read-only and free, 7 change your account, and 5 of those spend SpeedyIndex tokens or credits. The connector itself is free; tasks are paid with SpeedyIndex tokens, and new accounts get 100 free tokens. Index checks and indexing tasks support up to 10,000 URLs per task. Google indexing tasks are pay-per-indexed: tokens for URLs that do not get indexed return automatically. The server keeps no database, the API key is stored only inside an encrypted token, access tokens live for 1 hour, and sign-in can renew for up to 90 days. Changing the API key in your SpeedyIndex account revokes all existing sign-ins. A 38-second video guide is available on the same hub page.
+For SEO index checks and indexing tasks, the [SpeedyIndex MCP connector](https://en.speedyindex.com/mcp/) exposes 22 tools. 15 are read-only and free, 7 change your account, and 5 of those spend SpeedyIndex tokens or credits. The connector itself is free; tasks are paid with SpeedyIndex tokens, and new accounts get 100 free tokens. Index checks and indexing tasks support up to 10,000 URLs per task. Google indexing tasks are pay-per-indexed: tokens for URLs that do not get indexed return automatically. The server keeps no database, the API key is stored only inside an encrypted token, access tokens live for 1 hour, and sign-in can renew for up to 90 days. Changing the API key in your SpeedyIndex account revokes all existing sign-ins. A 52-second video guide is available on the same hub page.
 
-[![How to connect SpeedyIndex MCP to Claude (38 s video)](https://img.youtube.com/vi/25wPhn3eaCM/hqdefault.jpg)](https://www.youtube.com/watch?v=25wPhn3eaCM)
+[![How to connect SpeedyIndex MCP to Claude (52 s video)](https://img.youtube.com/vi/RTmBI8AV2lw/hqdefault.jpg)](https://www.youtube.com/watch?v=RTmBI8AV2lw)
 
 ## Claude Code
 
